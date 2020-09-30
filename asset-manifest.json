@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mathcom/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mathcom/static/js/main.11e32121.chunk.js",
+    "main.js.map": "/mathcom/static/js/main.11e32121.chunk.js.map",
+    "runtime-main.js": "/mathcom/static/js/runtime-main.f0788721.js",
+    "runtime-main.js.map": "/mathcom/static/js/runtime-main.f0788721.js.map",
+    "static/js/2.a693db1c.chunk.js": "/mathcom/static/js/2.a693db1c.chunk.js",
+    "static/js/2.a693db1c.chunk.js.map": "/mathcom/static/js/2.a693db1c.chunk.js.map",
+    "index.html": "/mathcom/index.html",
+    "precache-manifest.a2089ecd801d9a52d3a858351b2f4954.js": "/mathcom/precache-manifest.a2089ecd801d9a52d3a858351b2f4954.js",
+    "service-worker.js": "/mathcom/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mathcom/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a693db1c.chunk.js.LICENSE.txt": "/mathcom/static/js/2.a693db1c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mathcom/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0788721.js",
+    "static/js/2.a693db1c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.11e32121.chunk.js"
+  ]
+}
